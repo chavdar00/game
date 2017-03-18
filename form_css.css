@@ -1,0 +1,54 @@
+body{
+  margin-top: 10%;
+}
+#wrap{
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FFFFFF), color-stop(1, #D3D8E8));
+  background-repeat: no-repeat;
+  text-align: center;
+
+}
+legend{
+  color:#141823;
+  font-size:25px;
+  font-weight:bold;
+
+}
+
+.navbar-default .navbar-brand{
+  color:#fff;
+  font-size:30px;
+  font-weight:bold;
+
+}
+.form .form-control { margin-bottom: 10px; 
+
+}
+form{
+  text-align: center;
+}
+.row{
+  margin-left: 22%;
+}
+.bot{
+  margin-left: 22%;
+}
+input{
+  margin-right: 15px;
+}
+.mi{
+  margin-left: 45%;
+}
+h3{
+  margin-left: 0%;
+}
+
+h1 {font-family: Courier, monospace; font-size: 18pt;}
+
+  p {font-family: Verdana, Arial, sans-serif; font-size: 12pt;}
+  a:link  {color: #0000FF; text-decoration: underline;}
+  a:visited {color: #0000FF; text-decoration: underline;}
+  a:active  {color: #0000FF; text-decoration: underline;}
+  a:hover {color: #FF0000; text-decoration: underline;}
+  a{text-decoration: none}
+  body{text-align: center;}
+  
